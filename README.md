@@ -69,7 +69,6 @@ functions/    plant_simu.m           nonlinear plant S-function
               tunePIGA.m             GA-based PI tuning (fallback)
               simulateClosedLoop.m   generic closed-loop runner
 results/      response plots (open-loop, closed-loop, FF, GA, robustness)
-report/       report-fa.pdf    written report (Persian)
 ```
 
 ## Usage
